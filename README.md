@@ -1,6 +1,6 @@
 # Heores of Pymoli
 
-In this exercise, I cleaned, analyzed, genearted meaningful reports of company data. The Pandas Library was the main library used for data manipulation. The final report consisted of each of the following:
+In this exercise, I cleaned, analyzed, generated meaningful reports of company data. The Pandas Library was the main library used for data manipulation. The final report consisted of each of the following:
 
 ### Player Count
 
